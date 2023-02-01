@@ -1,0 +1,3 @@
+# Problem statement
+Family Initiative, a company dedicated to supporting families, is facing challenges in communication between the company and parents. This friction in communication has become a major challenge for the company, as it affects the quality of services offered and undermines the company's mission to support families. The issue is compounded by the fact that the target audience for Family Initiative is busy parents who require prompt and reliable communication. The current state of communication between the company and parents is not meeting their needs or expectations, creating a barrier to achieving the company's goals
+
