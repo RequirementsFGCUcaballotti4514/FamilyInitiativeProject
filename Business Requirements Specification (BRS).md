@@ -59,8 +59,6 @@ External environmental factors:
 
 - Social Responsibilities - Family Initiative, Inc. has a social responsibility to the communities it serves, including the children and families who rely on its services. The system should be designed to meet the needs of these stakeholders and to help Family Initiative fulfill its social responsibilities.
 
-- Technology Base - The technology base of the business environment is constantly evolving, with new technologies being developed all the time. The system should be designed with a focus on flexibility and adaptability to ensure that it can keep up with changes in the technology base over time.
-
 All of these factors should be taken into consideration in understanding the business environment of Family Initiative, Inc. and eliciting the stakeholder requirements for the system to be developed or changed. The new system should be designed to meet the needs of the organization and its stakeholders, while also taking into account the external and internal environmental factors that will impact its success.
 
 # Mission, goals, and objectives
