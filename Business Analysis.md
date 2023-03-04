@@ -2,19 +2,44 @@
 The proposed system for Family Initiative, Inc. is aimed at improving the organization's ability to provide services to autistic children and their families. The system will be a web platform that streamlines various business processes such as identification and assessment of children's needs, designing individualized treatment plans, monitoring progress, and communicating with parents and caregivers. The system will also interface with other processes such as fundraising, donor management, volunteer management, and administrative tasks like record-keeping, reporting, and compliance. By implementing an integrated system that supports these processes, the organization can focus on providing high-quality care to autistic children and their families, and ultimately achieve its mission of improving lives.
 
 ## Business purpose
+The purpose of Family Initiative, Inc. is to improve the lives of autistic children and their families throughout Florida. The founders, David and Anjali, are social workers who have a passion for creating something that challenges traditional thinking in order to provide better support to those in need. Their organization aims to make a positive impact on children and families by providing them with the resources and support they need to thrive.
 
+The proposed system will contribute to meeting business objectives by improving the efficiency and effectiveness of the organization's operations. By implementing a new system, Family Initiative will be better equipped to manage their resources, track progress, and ensure that they are meeting the needs of their clients in a timely and effective manner.
 
 ## Business scope
+The business domain under consideration for Family Initiative, Inc. is the field of autism support services in Florida. FI does this by, Providing support services to autistic children and their families, Developing and implementing programs and resources to improve the quality of life for autistic children and their families, and Collaborating with external organizations, including government agencies and other non-profits, to improve services and support for autistic children and their families.  The scope of the system being developed or changed is to improve the organization's management and delivery of support services to autistic children and their families. The system will support the following business activities:
+- Management of client records and information
+- Scheduling and coordination of appointments and services
+- Management of staff and volunteer schedules
 
+Assumptions on which business activities are supported by the system include the assumption that the organization will continue to provide support services to autistic children and their families, and that staff and volunteers will be responsible for carrying out these services. The system is designed to support these activities by providing more efficient and effective management and tracking of resources and progress.
+Tracking and reporting on progress and outcomes of services provided
 
 ## Overview
-
+Family Initiative, Inc. is a non-profit organization that provides support services to autistic children and their families in Florida. The organization is comprised of several major internal divisions and works closely with a variety of external entities to carry out its mission.
 
 ## Definitions
-
+Spectrum
+: a condition related to brain development that impacts how a person perceives and socializes with others, causing problems in social interaction and communication.
+Inclusion
+: The practice of ensuring that individuals with disabilities are fully included in all aspects of society, including education, employment, and community life.
+Client
+: Child on the spectrum that Family Initiative, Inc. works with.
+Person-centered planning
+: An approach to planning services and supports for individuals with disabilities that focuses on their strengths, needs, and preferences, and involves them and their families in the decision-making process.
 
 ## Major stakeholders 
+- Company Owners - The company owners work directly with all stakeholders requiring decumentation, comunication, and colaberation with all stakeholders.
 
+- Autistic Children and Their Families - Autistic children and their families are the primary beneficiaries of the services provided by Family Initiative, Inc.
+
+- Staff - The staff is responsible for providing support services to autistic children and their families.
+
+- Donors and Supporters - Donors and supporters are critical to the success of Family Initiative, Inc. as a non-profit organization.
+
+- Government Agencies and Regulators - Government agencies and regulators are responsible for funding and oversight of services for children with disabilities and their families.
+
+- Collaborating Organizations - Collaborating organizations in the field of autism support services work with Family Initiative to improve services and support for autistic children and their families.
 
 
 # References
