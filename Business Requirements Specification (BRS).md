@@ -44,8 +44,6 @@ The internal divisions and external entities are interrelated, with each playing
 
 - Collaborating Organizations - Collaborating organizations in the field of autism support services work with Family Initiative to improve services and support for autistic children and their families. The system will impact their work by improving coordination and communication with Family Initiative.
 
-- Board of Directors - The Board of Directors is responsible for overall governance and oversight of Family Initiative, Inc. The system will impact their work by providing more detailed and accurate information on the organization's operations and outcomes.
-
 # Business environment
 Internal environmental factors:
 
