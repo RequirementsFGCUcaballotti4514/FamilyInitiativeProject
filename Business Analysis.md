@@ -27,7 +27,7 @@ Person-centered planning
 : An approach to planning services and supports for individuals with disabilities that focuses on their strengths, needs, and preferences, and involves them and their families in the decision-making process.
 
 ## Major stakeholders 
-- Company Owners - The company owners work directly with all stakeholders requiring decumentation, comunication, and colaberation with all stakeholders.
+- Company Owners - The company owners work directly with all stakeholders requiring documentation, communication, and collaboration with all stakeholders.
 
 - Autistic Children and Their Families - Autistic children and their families are the primary beneficiaries of the services provided by Family Initiative, Inc.
 
@@ -108,21 +108,21 @@ The system should also interface with other processes such as fundraising, donor
 - Integration constraints: The system should be able to integrate with other tools and systems used by the organization, such as accounting software, marketing tools, and fundraising platforms. This will help to ensure data consistency and reduce the need for manual data entry.
 
 ## Business operational modes
-In the event of an unsteady state of business operation, Family Initiative, Inc. needs to develop contingency plans to ensure that business activities can continue even when the proposed system is not available due to unexpected situations such as accidents or natural disasters. In manual operation mode, staff members will need to follow predetermined procedures and protocols to ensure that critical business functions continue to be performed. The proposed system needs to be backedup and redundancies to minimize disruptions to business operations in a situation of down operations. These measures will allow Family Initiative, Inc. to continue providing essential services to autistic children and their families and will automate processes once the system is back online.
+In the event of an unsteady state of business operation, Family Initiative, Inc. needs to develop contingency plans to ensure that business activities can continue even when the proposed system is not available due to unexpected situations such as accidents or natural disasters. In manual operation mode, staff members will need to follow predetermined procedures and protocols to ensure that critical business functions continue to be performed. The proposed system needs to be backed up and redundancies to minimize disruptions to business operations in a situation of down operations. These measures will allow Family Initiative, Inc. to continue providing essential services to autistic children and their families and will automate processes once the system is back online.
 
 ## Business operational quality
-Family Initiative, Inc. primarily focus on the quality of care provided to autistic children and their families. This includes the accuracy and reliability of assessments, the effectiveness of treatment plans, and the timely delivery of therapy sessions. They tend to prioritizes quality care, Record keeping, regulatory compliance, information security, administrative processes.
+Family Initiative, Inc. primarily focuses on the quality of care provided to autistic children and their families. This includes the accuracy and reliability of assessments, the effectiveness of treatment plans, and the timely delivery of therapy sessions. They tend to prioritize quality care, Recordkeeping, regulatory compliance, information security, and administrative processes.
 
 ## Business structure
 ![Business structure](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/Business%20Structure.JPG)
 
 
-# Preliminary operational concept of proposed system
+# Preliminary operational concept of the proposed system
 ![login page](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/Family%20Hub.jpg)
 ![landing dash](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/Family%20Hub%20(1).jpg)
 ![client page](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/Family%20Hub%20(2).jpg)
 ![chat](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/Family%20Hub%20(3).jpg)
-Description of wireframe: The first page is the login. After a successful login, the second slide shows the home page with the left side containing different pages that can be navigated to. The top displays what page you are currently on along with your user name and photo. The home page on the left side contains scheduling information of the current user, along with company events. The right side is a brief overview of client information. Clicking on the clients tab on the left side will display client information, a graph displaying behavior improvements(lower is better) along with notes about the client. Clicking on the chat will bring up slide four where you can group chat with team members, managers, and client parents.
+Description of a wireframe: The first page is the login. After a successful login, the second slide shows the home page with the left side containing different pages that can be navigated to. The top displays what page you are currently on along with your user name and photo. The home page on the left side contains scheduling information of the current user, along with company events. The right side is a brief overview of client information. Clicking on the client's tab on the left side will display client information, a graph displaying behavior improvements(lower is better) along with notes about the client. Clicking on the chat will bring up slide four where you can group chat with team members, managers, and client parents.
 
 ## Preliminary operational concept
 
@@ -132,11 +132,11 @@ Description of wireframe: The first page is the login. After a successful login,
 * [terms of use](https://www.fi-florida.org/terms/)
 * [accessibility](https://www.fi-florida.org/accessibility/)
 ### description of the proposed system
-The system is used by the BCBA with conjunction of the RBT to allow the client's parents to see progress of their child over time. The system will also allow for communication of concerns of both FI and parents, along with events that the client or parent may be interested in. 
+The system is used by the BCBA in conjunction with the RBT to allow the client's parents to see the progress of their child over time. The system will also allow for communication of concerns of both FI and parents, along with events that the client or parent may be interested in. 
 ### modes of system operation
 * web
-* database
-* office 365
+* Database
+* Office 365
 ### user classes and other involved personnel
 * management
 * BCBA
@@ -147,26 +147,26 @@ The system is used by the BCBA with conjunction of the RBT to allow the client's
 ### support environment
 Support will be via a web app accessible from both computer and smartphone.
 ## Preliminary operational scenarios
-upon getting a new client, the manager or admin will generate a new client profile. The profile will be assigned to parents, BCBA, and RBT that are directly working with the client. After the BCBA and parents have gone through the needs assessment, the client profile will be updated to show behaviors being worked on. After a session the RBT will enter data from the session to the database. The parent will look at the profile to see the behavior profile of the client. The parent will be notified of events FI is having. 
+upon getting a new client, the manager or admin will generate a new client profile. The profile will be assigned to parents, BCBA, and RBT that are directly working with the client. After the BCBA and parents have gone through the needs assessment, the client profile will be updated to show behaviors being worked on. After a session, the RBT will enter data from the session into the database. The parent will look at the profile to see the behavior profile of the client. The parent will be notified of events FI is having. 
 
 
 
 # Other preliminary life-cycle concepts
 ## Preliminary acquisition concept
-the system needs to pull from a database that holds client information. FI is very interested in the security of this information. They currently store their information in physical files and office 365. File uploads to a cloud server is ideal for the website to utilize information. The domain and database would need to be acquired.
+the system needs to pull from a database that holds client information. FI is very interested in the security of this information. They currently store their information in physical files and office 365. File uploads to a cloud server are ideal for the website to utilize information. The domain and database would need to be acquired.
 
 ## Preliminary deployment concept
 Users will be able to login and access their clients and update information. Parents will be able to login and access information about their children. The web app will need to be built in conjunction with the database to appropriately and safely display data. 
 
 ## Preliminary support concept
-There will have to be support for the database and operations of the website, this would most likely be a third party IT company. The Admin for the website would ideally be management, but more likely to be HR. Admin would be responsible for Handling workers and Assigning BCBAs and OTs. Admins would need to set privileges for each role. The BCBAs would be responsible for the assigning RBTs to clients.
+There will have to be support for the database and operations of the website, this would most likely be a third-party IT company. The Admin for the website would ideally be management, but more likely to be HR. Admin would be responsible for Handling workers and Assigning BCBAs and OTs. Admins would need to set privileges for each role. The BCBAs would be responsible for assigning RBTs to clients.
 
 ## Preliminary retirement concept
-The company would need to hold control of the domain for a (three) year period to avoid any security information being obtained. 
+The company would need to hold control of the domain for a (three-year period to avoid any security information being obtained. 
 
 
 # Project Constraints
-The company is a non-profit, so there are constraints around the fiscal year. The ending and beginning of school years. Thanksgiving and winter brake.
+The company is a non-profit, so there are constraints around the fiscal year. The ending and beginning of school years. Thanksgiving and winter break.
 
 
 # Appendix
@@ -179,10 +179,10 @@ The company is a non-profit, so there are constraints around the fiscal year. Th
 * DRO - Differential Reinforcement of Other Behavior
 * DTT - Discrete Trial Training
 * OT - Occupational Therapy
-* COTA - Certified Ocupational Therapist Assistant
+* COTA - Certified Occupational Therapist Assistant
 * NET - Natural Environment Training
 * ASD - Autism Spectrum Disorder
-* TBRI - Trust Based Relational Intervention
+* TBRI - Trust-Based Relational Intervention
 * FCN - Family Care Network
 * ASD - Autism spectrum disorder
 * SPD - Sensory processing disorder
