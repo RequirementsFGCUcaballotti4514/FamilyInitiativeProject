@@ -111,10 +111,10 @@ The system should also interface with other processes such as fundraising, donor
 In the event of an unsteady state of business operation, Family Initiative, Inc. needs to develop contingency plans to ensure that business activities can continue even when the proposed system is not available due to unexpected situations such as accidents or natural disasters. In manual operation mode, staff members will need to follow predetermined procedures and protocols to ensure that critical business functions continue to be performed. The proposed system needs to be backedup and redundancies to minimize disruptions to business operations in a situation of down operations. These measures will allow Family Initiative, Inc. to continue providing essential services to autistic children and their families and will automate processes once the system is back online.
 
 ## Business operational quality
-
+Family Initiative, Inc. primarily focus on the quality of care provided to autistic children and their families. This includes the accuracy and reliability of assessments, the effectiveness of treatment plans, and the timely delivery of therapy sessions. They tend to prioritizes quality care, Record keeping, regulatory compliance, information security, administrative processes.
 
 ## Business structure
-
+![Business structure](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/Business%20Structure.JPG)
 
 
 # Preliminary operational concept of proposed system
@@ -179,6 +179,7 @@ The company is a non-profit, so there are constraints around the fiscal year. Th
 * DRO - Differential Reinforcement of Other Behavior
 * DTT - Discrete Trial Training
 * OT - Occupational Therapy
+* COTA - Certified Ocupational Therapist Assistant
 * NET - Natural Environment Training
 * ASD - Autism Spectrum Disorder
 * TBRI - Trust Based Relational Intervention
