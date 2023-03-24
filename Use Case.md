@@ -59,6 +59,8 @@ The RBT working with a client needs to be able to login to thier account after a
  allowing for any necessary corrections to be made.
  
  
-
+## 010-0001: Edit Data Entry
  
  
+![Use Case Diagram](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Diagrams/use%20case.JPG)
+Created with Lucidchart.
