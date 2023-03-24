@@ -24,7 +24,7 @@
 **Alternative Path:**
 
 - If staff encounters an issue while inputting data, they can choose to save the data and come back to it later
-- If the staff makes an issue after the data was input. They are able to edit the save file. 
+- If the staff makes an issue after the data was input. They are able to edit the saved file. 
   - [Edit Data Entry](https://github.com/RequirementsFGCUcaballotti4514/FamilyInitiativeProject/blob/main/Use%20Case.md#010-0001-edit-data-entry).
 - If the system is experiencing technical difficulties and the data cannot be saved, RBT will be prompted to try again later
 - If the parent encounters an issue while viewing the data, they can choose to contact the RBT or the system support team for assistance
@@ -42,13 +42,13 @@ and save the data. The staff must be able to do this quickly and easily, as time
 The system should be designed to allow for easy access and efficient navigation to reduce the time taken to input data. 
 The data entered must be accurate and secure, as it will be used by therapists to develop treatment plans. In addition, 
 the system should provide appropriate data visualization and reports to enable therapists to make informed decisions 
-and track patient progress over time. Overall, the staff data inputting use-case is critical for effective behavioral therapy and requires a software system 
-that is user-friendly, accurate, secure, and provides useful data insights.
+and track patient progress over time. Overall, the staff data inputting use-case is critical for the effective behavioral therapy and requires a software system 
+that is user-friendly, accurate, secure and provides useful data insights.
 
-The staff working with a client needs to be able to login to thier account after a session and have access to the client's profile and input promted data.
-1) Login through staff page
-2) Locate client tab
-3) Select client
+The staff working with a client needs to be able to log in to their account after a session and have access to the client's profile and input prompted data.
+1) Login through the staff page
+2) Locate the client tab
+3) Select the client
 4) Input data
 5) save changes
 
@@ -64,7 +64,7 @@ The staff working with a client needs to be able to login to thier account after
 
 **Pre-conditions:** The staff must have previously entered data into the system and needs to make a correction to the data.
  
-**Disctiption:** This use case describes the steps for an staff to edit a mistake they have made in their data input.
+**Description:** This use case describes the steps for staff to edit a mistake they have made in their data input.
 
 - The staff logs into the system.
 - The staff navigates to the data entry page where the mistake was made.
@@ -97,7 +97,7 @@ The overall goal of the use case is to allow the RBT to correct any mistakes the
 
 the system will update the information with the corrected data and save it. The staff will be able to view the corrected data in the system, 
 and the correction will be reflected in any reports or analyses that are generated from the data. FI wants to retain the original document as well
-to reflect on why the correction was make if they need it. 
+to reflect on why the correction was made if they need it. 
 The staff may choose to review the corrected data to ensure that it is accurate and complete. 
 The goal of this use case is to allow RBTs to correct any errors or omissions in their input data to ensure that it is reliable and 
 useful for future analysis and decision-making.
