@@ -58,6 +58,16 @@ The staff working with a client needs to be able to log in to their account afte
  Additionally, the system may provide feedback to the RBT regarding the accuracy or completeness of the data entered, 
  allowing for any necessary corrections to be made.
  
+ ### Constraints
+CON-1. The system must be built using the Python programming language and Django web framework.
+CON-2. The system must be compatible with the latest versions of Google Chrome, Firefox, and sufarri web browsers.
+CON-3. The user interface must be designed to be accessible to users with visual impairments and must follow WCAG 2.1 accessibility guidelines.
+CON-4. The system must be accessible to users with disabilities in accordance with the Americans with Disabilities Act.
+CON-5. The system must be able to handle a large amount of data and must be scalable to accommodate growth.
+CON-6. The system must comply with all relevant privacy regulations such as HIPAA and GDPR.
+CON-7. The system must integrate with an existing client database system and follow their data format and communication protocols.
+CON-8. The system must be designed to run on tablets and smartphones with small display sizes and have a responsive user interface.
+ 
  
 ## 010-0001: Edit Data Entry
 **Primary Actors:** Staff, client database
