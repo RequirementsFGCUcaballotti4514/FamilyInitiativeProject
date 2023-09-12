@@ -1,2 +1,2 @@
 # FamilyInitiativeProject
-looking into the nonprofit for potential needs
+Looking into the potential needs potential needs of the nonprofit Family Initiative.
